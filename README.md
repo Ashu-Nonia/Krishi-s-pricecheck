@@ -21,6 +21,13 @@ Many small-scale farmers in rural regions work hard to grow quality crops but la
 
 ---
 
+![App Screenshot]
+<img width="487" height="1010" alt="Screenshot 2026-10-27 145603" src="https://github.com/user-attachments/assets/199445ac-193f-4369-8280-fccc5b348a3b" />
+<img width="372" height="780" alt="Screenshot 2026-10-27 145702" src="https://github.com/user-attachments/assets/01db741b-51dd-4e51-b181-2a16e6071d8f" />
+<img width="527" height="1017" alt="Screenshot 2026-10-27 145744" src="https://github.com/user-attachments/assets/36e1233a-bfa5-4066-acbb-2badeac514aa" />
+
+---
+
 ## 🛠️ Built With
 This prototype was developed rapidly using completely free, accessible tech tools:
 - **Glide:** For creating the frontend user interface.
